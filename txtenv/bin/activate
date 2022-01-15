@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/home/priyatosh/flaksdev/text-summary-site/txtenv'
+VIRTUAL_ENV='/home/priyatosh/flaksdev/text-summary-site-2/txtenv'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

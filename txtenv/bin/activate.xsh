@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/priyatosh/flaksdev/text-summary-site/txtenv"
+$VIRTUAL_ENV = r"/home/priyatosh/flaksdev/text-summary-site-2/txtenv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

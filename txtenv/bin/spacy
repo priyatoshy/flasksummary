@@ -1,4 +1,4 @@
-#!/home/priyatosh/flaksdev/text-summary-site/txtenv/bin/python
+#!/home/priyatosh/flaksdev/text-summary-site-2/txtenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
