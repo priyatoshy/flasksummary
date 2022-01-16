@@ -1,7 +1,4 @@
 #importing flask
-from crypt import methods
-from json.tool import main
-from signal import pthread_kill
 from flask import Flask,request,redirect,render_template
 from summary import TEXTE
  
